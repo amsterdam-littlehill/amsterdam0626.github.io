@@ -8,7 +8,14 @@ excerpt:
 mathjax: true
 ---
 
-##vue-cli脚手架 目录结构
+##vue-cli脚手架
+
+
+
+<!--more-->
+
+
+目录结构
 
 |目录/文件|说明|
 |:----|:---|
