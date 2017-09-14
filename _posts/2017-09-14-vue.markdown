@@ -231,6 +231,8 @@ $vm.desc=='a'
 true
 ```
 
+<script async src="//jsfiddle.net/xihalele123/qfjjugtw/8/embed/js,html,result/"></script>
+
 >###条件语句
 >####循环语句  ***v-for***
 
